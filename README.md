@@ -28,7 +28,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 | :------- | :-------------------|
 | Username | Name is received    |
 | Select   | Profile is displayed|
-| :------- | :-------------------|
 
 ## Further help
 
