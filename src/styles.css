@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~font-awesome/css/font-awesome.css";
+@import "~bootstrap/dist/css/bootstrap.css";
+
+*{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU8a7cX8d7e7U39LICWPwSLhQqsD3higA571M3tr5aVHQhfIaZQA');
+}
