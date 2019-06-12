@@ -5,13 +5,15 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { ProfileService } from './services/profile.service';
 import { ProfileComponent } from './components/profile/profile.component';
+import { DatePipe } from './date.pipe';
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    ProfileComponent
+    ProfileComponent,
+    DatePipe
   ],
   imports: [
     BrowserModule,
