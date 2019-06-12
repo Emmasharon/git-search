@@ -1,6 +1,6 @@
-# GitSearch
+# Git-Search App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
 
@@ -22,6 +22,22 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## BDD
+
+| Input    | Output              |
+| :------- | :-------------------|
+| Username | Name is received    |
+| Select   | Profile is displayed|
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Support and contact details
+
+contact me @ emmasharon19@gmail.com
+
+### License
+
+The project is under [MIT license](https://github.com/Emmasharon/git-search/blob/master/LICENSE)
+Copyright © 2019.All rights reserved
